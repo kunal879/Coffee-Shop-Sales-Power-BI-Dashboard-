@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Power-BI-Dashboard-
+# Coffee Shop Sales Dashboard
 
 The Coffee Shop Sales Analysis project was undertaken to gain a deeper understanding of sales performance, customer purchasing behavior, and overall business trends across multiple coffee shop locations. Using MySQL as the primary data analysis tool, the project transformed raw sales data into meaningful insights that support better business decisions. The process began with a thorough review of the dataset, followed by preparing and cleaning the raw data, creating the database, importing files, correcting data types, and validating data quality. Once the data was ready, SQL queries were developed to answer key business questions, and the results were organized for reporting and dashboard creation.
 
